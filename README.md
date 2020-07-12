@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hello 👋
+
+I am currently a Product Designer at Apple. 
+This is a repository for tiny projects I have worked on over the years. 
+
+My portfolio can be found [here](advita.xyz).
 
 <!--
 **oreosryo/oreosryo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
